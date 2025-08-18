@@ -1,7 +1,6 @@
 ## Hii, Im El 👋
 
 > Radically empathetic technology illuminates our path to a just future
-> 
 > ✊🏻✊🏼✊🏽✊🏾✊🏿
 
 I'm passionate about crafting sleek, minimalist, and modern User Interface.
@@ -11,6 +10,7 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 
 **Languages and Tools:**
 <br>
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vscode.svg" alt="VSCode" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/javascript.svg" alt="Javascript" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/php.svg" alt="PHP" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/python.svg" alt="Python" height="30"/> 
@@ -21,6 +21,7 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/laravel.svg" alt="Laravel" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg" alt="React" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vite.svg" alt="Vite" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/git" alt="Git" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/figma.svg" alt="Figma" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/nodejs.svg" alt="NodeJS" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg" alt="Docker" height="30"/> 
