@@ -21,7 +21,7 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/laravel.svg" alt="Laravel" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg" alt="React" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vite.svg" alt="Vite" height="30"/> 
-<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/git" alt="Git" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/git.svg" alt="Git" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/figma.svg" alt="Figma" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/nodejs.svg" alt="NodeJS" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg" alt="Docker" height="30"/> 
