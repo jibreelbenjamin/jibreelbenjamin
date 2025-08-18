@@ -26,3 +26,5 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/nodejs.svg" alt="NodeJS" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg" alt="Docker" height="30"/> 
 
+<br><br>Meow<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
