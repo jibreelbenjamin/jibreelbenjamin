@@ -10,7 +10,10 @@ Hey there! I'm **Jibreel Benjamin** or yall call me **El** from **28° Malang, I
 a 17 yo- student with a big passion for front-end development i guess... Even though I dont have any industry experience yet, I love diving into web design, playing around with User Interface, and bringing ideas to life through code.
 
 **Languages and Tools:**
-<br><br>
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="TailwindCSS" height="40"/>
-<img src="https://raw.githubusercontent.com/laravel/art/refs/heads/master/logo-type/4%20PNG/3%20RGB/1%20Full%20Color/laravel-logotype-rgb-red.png" alt="TailwindCSS" height="40"/>
+<br>
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/javascript.svg" alt="JS" height="20"/> 
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" height="20"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" height="20"/>
+<img src="https://raw.githubusercontent.com/laravel/art/refs/heads/master/logo-type/4%20PNG/3%20RGB/1%20Full%20Color/laravel-logotype-rgb-red.png" alt="Laravel" height="20"/>
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/figma.svg" alt="Figma" height="20"/> 
+
