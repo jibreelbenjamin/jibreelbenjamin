@@ -3,7 +3,6 @@
 > Radically empathetic technology illuminates our path to a just future<br>
 > ✊🏻✊🏼✊🏽✊🏾✊🏿
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 I'm passionate about crafting sleek, minimalist, and modern User Interface.
 just a beginner now, but aiming to be a pro coder! 🧑🏻‍💻 <br>
 Hey there! I'm **Jibreel Benjamin** or known as **El ✨** from **28° Malang, Indonesia** 🇮🇩 <br>
@@ -26,3 +25,5 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/figma.svg" alt="Figma" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/nodejs.svg" alt="NodeJS" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg" alt="Docker" height="30"/> 
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
