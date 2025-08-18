@@ -1,6 +1,6 @@
 ## Hii, Im El 👋
 
-> Radically empathetic technology illuminates our path to a just future
+> Radically empathetic technology illuminates our path to a just future<br>
 > ✊🏻✊🏼✊🏽✊🏾✊🏿
 
 I'm passionate about crafting sleek, minimalist, and modern User Interface.
