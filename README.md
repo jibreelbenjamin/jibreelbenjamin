@@ -16,6 +16,7 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/python.svg" alt="Python" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cpp.svg" alt="CPP" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/typescript.svg" alt="Typescirpt" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/tailwindcss.svg" alt="TailwindCSS" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/laravel.svg" alt="Laravel" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg" alt="React" height="30"/> 
 <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vite.svg" alt="Vite" height="30"/> 
