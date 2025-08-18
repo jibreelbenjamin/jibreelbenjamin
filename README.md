@@ -11,9 +11,15 @@ a 17 yo- student with a big passion for front-end development i guess... Even th
 
 **Languages and Tools:**
 <br>
-<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/javascript.svg" alt="JS" height="20"/> 
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" height="20"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" height="20"/>
-<img src="https://raw.githubusercontent.com/laravel/art/refs/heads/master/logo-type/4%20PNG/3%20RGB/1%20Full%20Color/laravel-logotype-rgb-red.png" alt="Laravel" height="20"/>
-<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/figma.svg" alt="Figma" height="20"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/javascript.svg" alt="Javascript" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/php.svg" alt="PHP" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/python.svg" alt="Python" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/cpp.svg" alt="CPP" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/typescript.svg" alt="Typescirpt" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/laravel.svg" alt="Laravel" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/react.svg" alt="React" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/vite.svg" alt="Vite" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/figma.svg" alt="Figma" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/nodejs.svg" alt="NodeJS" height="30"/> 
+<img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/icons/docker.svg" alt="Docker" height="30"/> 
 
