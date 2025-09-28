@@ -6,7 +6,8 @@
 I'm passionate about crafting sleek, minimalist, and modern User Interface.
 just a beginner now, but aiming to be a pro coder! 🧑🏻‍💻 <br>
 Hey there! I'm **Jibreel Benjamin** or known as **El ✨** from **28° Malang, Indonesia** 🇮🇩 <br>
-a 17 yo- student with a big passion for front-end? back-end? fullstack? data-analyst? mobile-dev?.. i guess... Even though I dont have any industry experience yet, I love diving into web design, playing around with User Interface, and bringing ideas to life through code.
+a 17 yo- student with a big passion for front-end? back-end? fullstack? data-analyst? mobile-dev?.. i guess... Even though I dont have any industry experience yet, I love diving into web design, playing around with User Interface, and bringing ideas to life through code. 
+<br><a href="https://jibreelbenjamin.vercel.app">Visit full portofolio</a>
 
 Habits ; Watching c-dramas, listening spotity, gaming, petting husky 😍🐶
 
